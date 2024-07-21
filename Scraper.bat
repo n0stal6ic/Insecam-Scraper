@@ -1,5 +1,4 @@
-:: Insecam Scraper made by n0stal6ic#0001
-:: https://n0stal6ic.com/
+:: Insecam Scraper made by n0stal6ic
 :: Uses Deno Library https://github.com/denoland/deno/releases
 @echo off
 color 0a
